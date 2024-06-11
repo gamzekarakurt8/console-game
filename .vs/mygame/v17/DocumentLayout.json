@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\mygame\\mygame\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DDE111-C31F-4908-9B0E-C78A6E46A8D8}|mygame\\mygame.csproj|solutionrelative:mygame\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "mygame\\HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\HumanPlayer.cs",
+              "RelativeToolTip": "mygame\\HumanPlayer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:04:52.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Player.cs",
+              "RelativeDocumentMoniker": "mygame\\Player.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Player.cs",
+              "RelativeToolTip": "mygame\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:04:02.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Paddle.cs",
+              "RelativeDocumentMoniker": "mygame\\Paddle.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Paddle.cs",
+              "RelativeToolTip": "mygame\\Paddle.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:03:10.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\GameObject.cs",
+              "RelativeDocumentMoniker": "mygame\\GameObject.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\GameObject.cs",
+              "RelativeToolTip": "mygame\\GameObject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:19:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Game.cs",
+              "RelativeDocumentMoniker": "mygame\\Game.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Game.cs",
+              "RelativeToolTip": "mygame\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:05:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Ball.cs",
+              "RelativeDocumentMoniker": "mygame\\Ball.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Ball.cs",
+              "RelativeToolTip": "mygame\\Ball.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:50:58.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Program.cs",
+              "RelativeDocumentMoniker": "mygame\\Program.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\Program.cs",
+              "RelativeToolTip": "mygame\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:47:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\AIPlayer.cs",
+              "RelativeDocumentMoniker": "mygame\\AIPlayer.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\mygame\\mygame\\AIPlayer.cs",
+              "RelativeToolTip": "mygame\\AIPlayer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:06:52.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
